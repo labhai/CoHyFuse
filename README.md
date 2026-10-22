@@ -126,8 +126,7 @@ are not included.
 
 ## Contact
 
-For code questions, open a [GitHub issue](https://github.com/labhai/CoHyFuse/issues).
-For research inquiries, contact [Haejun Chung](mailto:haejun@hanyang.ac.kr)
-or [Ikbeom Jang](mailto:ijang@hufs.ac.kr).
+For code or research inquiries, contact [Boseong Kim](mailto:boseong@hanyang.ac.kr).
+You can also open a [GitHub issue](https://github.com/labhai/CoHyFuse/issues).
 
 [HAI Lab](https://github.com/labhai) · [Boseong Kim](https://github.com/BOSEONG000126)
