@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cohyfuse"
+version = "0.1.0"
+description = "Condition-wise hypergraph fusion with global connectome in task-fMRI"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+dependencies = ["torch>=2.1", "numpy>=1.24", "scikit-learn>=1.3"]
+
+[project.urls]
+Repository = "https://github.com/labhai/CoHyFuse"
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.setuptools.packages.find]
+include = ["cohyfuse*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
