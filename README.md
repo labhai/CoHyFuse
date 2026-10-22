@@ -116,11 +116,11 @@ are not included.
 ## Citation
 
 ```bibtex
-@inproceedings{kim2026cohyfuse,
-  title     = {{CoHyFuse}: Condition-wise Hypergraph Fusion with Global Connectome in Task-fMRI},
-  author    = {Kim, Boseong and Chung, Haejun and Jang, Ikbeom},
-  booktitle = {IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-  year      = {2026}
+@article{kim2026cohyfuse,
+  title={CoHyFuse: Condition-wise Hypergraph Fusion with Global Connectome in Task-fMRI},
+  author={Kim, Boseong and Chung, Haejun and Jang, Ikbeom},
+  journal={arXiv preprint arXiv:2610.05913},
+  year={2026}
 }
 ```
 
